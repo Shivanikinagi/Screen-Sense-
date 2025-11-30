@@ -1,0 +1,37 @@
+# ScreenSense AI Dependencies
+
+# Screen Capture
+mss==9.0.1
+pillow==10.4.0
+
+# Image Processing
+opencv-python==4.10.0.84
+numpy==1.26.4
+
+# Deep Learning
+torch==2.4.1
+torchvision==0.19.1
+tensorflow==2.17.0
+
+# OCR
+pytesseract==0.3.13
+easyocr==1.7.1
+
+# Browser Automation
+playwright==1.47.0
+selenium==4.25.0
+pyautogui==0.9.54
+
+# Data & Utilities
+pandas==2.2.3
+scikit-learn==1.5.2
+pyyaml==6.0.2
+
+# Logging & Monitoring
+loguru==0.7.2
+tqdm==4.66.5
+
+# API & Web
+fastapi==0.115.0
+uvicorn==0.31.0
+requests==2.32.3
