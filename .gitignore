@@ -46,7 +46,10 @@ logs/*.log
 data/screensense.db
 data/training_screenshots/*.png
 data/test_results/*.png
+<<<<<<< HEAD
 models/*
+=======
+>>>>>>> c88867e2b99af9c9dd84e4c7d717adfc276f5a58
 models/*.pth
 models/*.pt
 
